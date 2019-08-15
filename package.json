@@ -17,6 +17,7 @@
     "mocha": "^5.2.0",
     "mock-aws": "^1.2.3",
     "serverless": "^1.49.0",
+    "serverless-iam-roles-per-function": "^2.0.1",
     "serverless-pseudo-parameters": "^1.6.0"
   },
   "dependencies": {
@@ -25,6 +26,7 @@
     "awscred": "^1.4.1",
     "bluebird": "^3.5.1",
     "chance": "^1.0.16",
+    "middy": "^0.28.5",
     "mustache": "^2.3.0",
     "superagent": "^3.8.3",
     "superagent-promise": "^1.1.0"
